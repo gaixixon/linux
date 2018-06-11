@@ -1,5 +1,5 @@
 net#!/bin/bash
-
+# i am on branch 1
 #fix wifi error 'already started in arch linux
 
 sudo ip link set wlp3s0 down
